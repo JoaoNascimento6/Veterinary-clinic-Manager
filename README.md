@@ -1,5 +1,4 @@
-# Veterinary Clinic Manager ![c-sharp (2)](https://github.com/JoaoNascimento6/Veterinary-clinic-Manager/assets/120685146/8d6bb1c5-13ab-478e-bcd0-0e96b60516d3)
-
+# Veterinary Clinic Manager <img src="Assets/c-sharp.png">
 > A Windows Forms application for managing veterinary clinic interventions using C# and .NET.
 
 ## Project Description 
@@ -8,7 +7,7 @@ A veterinary clinic has contacted you to develop an application for managing the
 
 ---
 
-https://github.com/JoaoNascimento6/Veterinary-clinic-Manager/assets/120685146/106810ed-44ba-4ec8-aa3a-9e943144ced4
+https://github.com/JoaoNascimento6/Veterinary-clinic-Manager/assets/120685146/1dd8e5ec-1ed7-4401-9bcd-37959fc91c2a
 
 ---
 
