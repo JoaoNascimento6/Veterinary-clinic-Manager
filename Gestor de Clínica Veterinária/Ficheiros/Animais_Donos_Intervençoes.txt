@@ -1,0 +1,13 @@
+1-Manel-912 283 275
+1-Bolinhas-Cão-6-10/06/2013-M-Pequeno-Pug-;Zeca Afonso-30/12/2022 00:00:00-25-Consulta-Rotina;Maurício Roberto-30/12/2022 00:00:00-75-Consulta-Gastroenterologia;Maurício Roberto-11/11/2023 00:00:00-120-Consulta-Pneumologia;Maurício Roberto-11/11/2023 00:00:00-70-Cirurgia-Castração
+3-Rodi-Hamster-1-19/01/2002-M-Pequeno-Peludo-;Maurício Roberto-30/12/2022 00:00:00-40-Vacina-Desparasitação-30/12/2023 00:00:00
+----------------------------------------------
+2-Rui-968 294 012
+2-Max-Cão-35-21/09/2019-M-Grande-Doberman-;Maria do Mar-30/12/2022 00:00:00-50-Cirurgia-Castração;Maria do Mar-03/01/2023 00:00:00-114,5-Vacina-Hepatite-03/01/2024 00:00:00
+4-Rolinha-Gato-8-22/09/2017-F-Medio-Siames-;Maria do Mar-30/12/2022 00:00:00-100-Vacina-Contra Raiva-24/09/2025 00:00:00;Zeca Afonso-30/12/2022 00:00:00-25-Consulta-Rotina
+----------------------------------------------
+3-Maria do Gato-252 212 167
+5-Gatxinho-Gato-4,5-22/07/2014-M-Medio-Gato de Rua-;Maurício Roberto-02/01/2023 00:00:00-38,25-Consulta-Rotina;Maurício Roberto-02/01/2023 00:00:00-33,25-Vacina-Rotina-23/05/2024 00:00:00;Maurício Roberto-02/01/2023 00:00:00-63,25-Cirurgia-Castração;Maurício Roberto-03/01/2023 00:00:00-88,25-Consulta-Gastroenterologia
+----------------------------------------------
+4-joao-914 512 122
+----------------------------------------------
